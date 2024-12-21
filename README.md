@@ -1,8 +1,4 @@
-# React + Vite
+# Shop.co
+for live version: https://shopxco.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Shop.co is a responsive e-commerce platform designed to provide users with a seamless shopping experience. Users can browse through a wide range of product categories, search for specific items, and filter their results by color, size, price, and product type to find exactly what they need. Each product has a detailed page where users can select the desired color, size, and quantity, with real-time checks against the database to ensure availability. The website includes a robust authentication system, allowing users to create accounts, log in, and manage their carts effortlessly. The cart dynamically updates if any products become unavailable or if requested quantities exceed stock levels. Shop.co also features a smooth checkout process and an orders section where users can review their past purchases and track current orders, ensuring a reliable and user-friendly shopping experience.
